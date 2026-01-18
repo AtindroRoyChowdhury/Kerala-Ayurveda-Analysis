@@ -8,21 +8,20 @@ Stuff to download-
 
 Codes:
 - Bronze Tier
-  - [ETL Code]([url](https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Bronze%20Tier))
-- Gold Tier
-  - Dashboard Code
-  - Driver Analysis Code
+  - ETL Code [https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Bronze%20Tier]
+- Gold Tier [[https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Gold%20Tier]]
+  - Dashboard Code 
+  - Driver Analysis Code 
 
 Data:
-- Raw
-- Bronze Tier
-- Gold Tier
+- Bronze Tier [https://drive.google.com/drive/folders/1eHbiGR6u0TG9Jtaxmr4zS6trvxPTlhjm?usp=drive_link]
+- Gold Tier [https://drive.google.com/drive/folders/1kf5WgDHLe9N8O7XjTCZzdL1KRLCAA510?usp=drive_link]
   - Funnels
   - Bugs
   - Payments
-  - Sheet (Driver Analysis)
+  - Sheet (Driver Analysis) [https://docs.google.com/spreadsheets/d/1XKPUN28KEmcWPy68RzKytdnTC-kK_-ElptmB0LupXJ8/edit?usp=sharing]
 
-Reports:
+Reports: [https://docs.google.com/document/d/1XtGF8CALTIN8_gAP5cD7fqtUAdcpKo5TMnqeRzr55L4/edit?usp=sharing]
 - QA Report on the Raw Data
 - Driver Analysis Report  
 

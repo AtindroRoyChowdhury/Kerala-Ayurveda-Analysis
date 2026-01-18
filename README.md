@@ -9,7 +9,7 @@ Stuff to download-
 Codes:
 - Bronze Tier
   - ETL Code [https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Bronze%20Tier]
-- Gold Tier [[https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Gold%20Tier]]
+- Gold Tier [https://github.com/AtindroRoyChowdhury/Kerala-Ayurveda-Analysis/tree/main/Codes/Gold%20Tier]
   - Dashboard Code 
   - Driver Analysis Code 
 

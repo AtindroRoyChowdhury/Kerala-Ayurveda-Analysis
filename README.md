@@ -12,6 +12,7 @@ Codes:
 - Gold Tier
   - Dashboard Code
   - Driver Analysis Code
+
 Data:
 - Raw
 - Bronze Tier
@@ -20,6 +21,7 @@ Data:
   - Bugs
   - Payments
   - Sheet (Driver Analysis)
+
 Reports:
 - QA Report on the Raw Data
 - Driver Analysis Report  

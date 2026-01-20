@@ -1,6 +1,6 @@
 # Kerala-Ayurveda-Analysis
 
-Looker Dashboard: [https://lookerstudio.google.com/u/0/reporting/148aca83-11a4-4805-aa84-7e40a5b9acbb]
+Looker Dashboard: [https://lookerstudio.google.com/reporting/80da1d85-22c5-4d43-90aa-4bc1cb772973]
 
 My Website: [https://d2yklhfuqagfqh.cloudfront.net/]
 
